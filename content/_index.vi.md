@@ -5,19 +5,18 @@ chapter : false
 ---
 # Báo Cáo Thực Tập
 
-⚠️ **Lưu ý:** Thông tin dưới đây chỉ mang tính chất tham khảo. Vui lòng không sao chép nguyên văn cho báo cáo của bạn, bao gồm cả cảnh báo này.
-
 ## Thông Tin Sinh Viên:
-- **Họ và Tên:** Nguyễn Văn A
-- **Số Điện Thoại:** 0989888999
-- **Email:** Anguyenvan@gmail.com
-- **Trường Đại Học:** Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh
-- **Chuyên Ngành:** Công nghệ Thông tin
-- **Lớp:** AWS082025
+- **Họ và Tên:** Đỗ Phúc Duy
+- **Số Điện Thoại:** 0934821517
+- **Email:** doychannel1802@gmail.com
+- **Trường Đại Học:** Đại học FPT
+- **Chuyên Ngành:** Kỹ thuật Phần mềm
+- **Lớp:** 
 - **Công Ty Thực Tập:** Amazon Web Services Vietnam Co., Ltd.
 - **Vị Trí Thực Tập:** FCJ Cloud Intern
-- **Thời Gian Thực Tập:** Từ 12/08/2025 đến 12/11/2025
+- **Thời Gian Thực Tập:** Từ 7/09/2025 đến 12/11/2025
 
+![Ảnh Chân dung](/images/avatar.jpg)
 ---
 
 ## Nội Dung Báo Cáo

@@ -6,8 +6,6 @@ chapter: false
 
 # Event 1 :: Internship Report
 
-## ⚠️ Disclaimer
-The information below is for reference purposes only. Please do not copy verbatim for your report, including this warning.
 
 ## 📝 Event Report "AWS Cloud Day Vietnam"
 
@@ -84,4 +82,4 @@ The conference provided invaluable insights into how leading Vietnamese companie
 *Migration & Modernization track sessions*
 
 ![Networking and Exhibition](/images/event1/3.jpg)
-*Networking session and AWS technology showcase*
+*Free gift*

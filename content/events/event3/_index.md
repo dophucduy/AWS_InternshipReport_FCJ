@@ -6,9 +6,6 @@ chapter: false
 
 # Event 3 :: Internship Report
 
-## ⚠️ Disclaimer
-The information below is for reference purposes only. Please do not copy verbatim for your report, including this warning.
-
 ## 📝 Event Report "Data Resiliency in a Cloud-first World - AWS + Commvault"
 
 ## 🎯 Purpose of the Event

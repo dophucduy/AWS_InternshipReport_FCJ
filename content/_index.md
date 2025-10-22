@@ -5,7 +5,6 @@ chapter : false
 ---
 # Internship Report
 
-⚠️ **Note:** The information below is for reference purposes only. Please do not copy verbatim for your report, including this warning.
 
 ## Student Information:
 - **Full Name:** Do Phuc Duy
@@ -17,6 +16,9 @@ chapter : false
 - **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 - **Internship Position:** FCJ Cloud Intern
 - **Internship Duration:** From 7/09/2025 to 12/11/2025
+
+![Profile Picture](/images/avatar.jpg)
+*Your profile picture*
 
 ---
 

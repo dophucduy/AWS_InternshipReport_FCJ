@@ -6,9 +6,6 @@ chapter: false
 
 # Event 1 :: Báo cáo thực tập
 
-## ⚠️ Lưu ý
-Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng không sao chép nguyên văn cho bài báo cáo của bạn kể cả warning này.
-
 ## 📝 Bài thu hoạch "AWS Cloud Day Vietnam"
 
 ## 🎯 Mục Đích Của Sự Kiện

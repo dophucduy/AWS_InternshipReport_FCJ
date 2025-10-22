@@ -6,23 +6,6 @@ chapter: true
 
 # Events Participated
 
-⚠️ **Note:** The information below is for reference purposes only. Please do not copy verbatim for your report, including this warning.
-
-In this section, you need to list and describe in detail the events that you participated in throughout your internship or work period.
-
-Each event should be presented in the format Event 1, Event 2, Event 3..., along with the following information:
-
-- Event name
-- Event time
-- Location (if any)
-- Your role in the event (participant, organizing support, speaker, etc.)
-- Brief description of content and main activities in the event
-- Results or value achieved (lessons learned, new skills, contributions to team/project)
-
-This listing helps clearly demonstrate your actual participation, as well as the soft skills and experience you have accumulated through each event.
-
-During the internship period, I participated in 3 events, with each event being a memorable experience with new, interesting and useful knowledge, along with gifts and wonderful moments.
-
 ## [Event 1](event1/)
 - **Event Name:** AWS Cloud Day Vietnam
 - **Time:** 7:35 AM - 5:15 PM on February 15, 2024
