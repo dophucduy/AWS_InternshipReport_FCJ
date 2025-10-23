@@ -9,7 +9,7 @@ chapter: true
 ## [Event 1](event1/)
 - **Event Name:** AWS Cloud Day Vietnam
 - **Time:** 7:35 AM - 5:15 PM on February 15, 2024
-- **Location:** 26th Floor, Bitexco Building, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+- **Location:** 36th Floor (track 2 HCMC), Bitexco Building, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 - **Role in Event:** Participant
 - **Description:** Full-day conference on Cloud & GenAI with sessions on Migration & Modernization
 - **Outcomes:** Gained insights into GenAI applications in modernization and DevOps lifecycle on AWS

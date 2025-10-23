@@ -2,172 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:49363/</loc>
+    <loc>http://localhost:61904/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/"
+                href="http://localhost:61904/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/"
+                href="http://localhost:61904/"
                 />
   </url><url>
-    <loc>http://localhost:49363/events/event1/</loc>
+    <loc>http://localhost:61904/events/event1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/events/event1/"
+                href="http://localhost:61904/vi/events/event1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/events/event1/"
+                href="http://localhost:61904/events/event1/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week1/</loc>
+    <loc>http://localhost:61904/worklog/week1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week1/"
+                href="http://localhost:61904/vi/worklog/week1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week1/"
+                href="http://localhost:61904/worklog/week1/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/</loc>
+    <loc>http://localhost:61904/worklog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/"
+                href="http://localhost:61904/vi/worklog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/"
+                href="http://localhost:61904/worklog/"
                 />
   </url><url>
-    <loc>http://localhost:49363/events/event2/</loc>
+    <loc>http://localhost:61904/events/event2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/events/event2/"
+                href="http://localhost:61904/vi/events/event2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/events/event2/"
+                href="http://localhost:61904/events/event2/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week2/</loc>
+    <loc>http://localhost:61904/worklog/week2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week2/"
+                href="http://localhost:61904/vi/worklog/week2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week2/"
+                href="http://localhost:61904/worklog/week2/"
                 />
   </url><url>
-    <loc>http://localhost:49363/events/event3/</loc>
+    <loc>http://localhost:61904/events/event3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/events/event3/"
+                href="http://localhost:61904/vi/events/event3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/events/event3/"
+                href="http://localhost:61904/events/event3/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week3/</loc>
+    <loc>http://localhost:61904/worklog/week3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week3/"
+                href="http://localhost:61904/vi/worklog/week3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week3/"
+                href="http://localhost:61904/worklog/week3/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week4/</loc>
+    <loc>http://localhost:61904/worklog/week4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week4/"
+                href="http://localhost:61904/vi/worklog/week4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week4/"
+                href="http://localhost:61904/worklog/week4/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week5/</loc>
+    <loc>http://localhost:61904/worklog/week5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week5/"
+                href="http://localhost:61904/vi/worklog/week5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week5/"
+                href="http://localhost:61904/worklog/week5/"
                 />
   </url><url>
-    <loc>http://localhost:49363/worklog/week6/</loc>
+    <loc>http://localhost:61904/worklog/week6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/worklog/week6/"
+                href="http://localhost:61904/vi/worklog/week6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/worklog/week6/"
+                href="http://localhost:61904/worklog/week6/"
                 />
   </url><url>
-    <loc>http://localhost:49363/events/</loc>
+    <loc>http://localhost:61904/events/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/events/"
+                href="http://localhost:61904/vi/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/events/"
+                href="http://localhost:61904/events/"
                 />
   </url><url>
-    <loc>http://localhost:49363/categories/</loc>
+    <loc>http://localhost:61904/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/categories/"
+                href="http://localhost:61904/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/categories/"
+                href="http://localhost:61904/categories/"
                 />
   </url><url>
-    <loc>http://localhost:49363/tags/</loc>
+    <loc>http://localhost:61904/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://localhost:49363/vi/tags/"
+                href="http://localhost:61904/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:49363/tags/"
+                href="http://localhost:61904/tags/"
                 />
   </url>
 </urlset>

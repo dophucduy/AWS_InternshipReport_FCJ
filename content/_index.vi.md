@@ -17,6 +17,8 @@ chapter : false
 - **Thời Gian Thực Tập:** Từ 7/09/2025 đến 12/11/2025
 
 ![Ảnh Chân dung](/images/avatar.jpg)
+*Ảnh chân dung*
+
 ---
 
 ## Nội Dung Báo Cáo
