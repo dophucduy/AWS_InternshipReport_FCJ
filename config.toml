@@ -3,6 +3,7 @@ baseURL = "https://dophucduy.github.io/AWS_InternshipReport_FCJ/"
 theme = "hugo-theme-learn"
 languageCode = "en-us"
 title = "AWS Learning Journey"
+canonifyURLs = true
 
 # For search functionality
 [outputs]
