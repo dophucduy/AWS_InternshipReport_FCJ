@@ -13,29 +13,32 @@ Hoạt động hàng tuần và tiến độ học tập trong thời gian thự
 **Tuần 1: [Nền Tảng](week1/)**
 - Giới thiệu AWS Cloud
 - Thiết lập Tài khoản AWS và Cơ bản IAM
-- *Sự kiện: Workshop Cơ bản AWS*
 
 **Tuần 2: [Dịch Vụ Tính Toán](week2/)**
 - EC2 Instances và Auto Scaling
 - Lambda Functions
-- *Sự kiện: Phiên Thực hành EC2*
+- *Sự kiện: AWS Cloud Day Vietnam (18/09/2025)*
 
 **Tuần 3: [Lưu Trữ & Cơ Sở Dữ Liệu](week3/)**
 - Giải pháp Lưu trữ S3 và EBS
 - RDS và DynamoDB
-- *Sự kiện: Workshop Di chuyển Database*
 
 **Tuần 4: [Mạng & Bảo Mật](week4/)**
 - VPC, Subnets và Security Groups
 - CloudFront và Route 53
-- *Sự kiện: Hội thảo Thực hành Bảo mật Tốt nhất*
+- *Sự kiện: AI-Driven Development Life Cycle (03/10/2025)*
 
 **Tuần 5: [Giám Sát & Quản Lý](week5/)**
 - CloudWatch và CloudTrail
 - Systems Manager
-- *Sự kiện: Tìm hiểu Sâu Công cụ DevOps*
 
 **Tuần 6: [Chủ Đề Nâng Cao](week6/)**
 - Kiến trúc Serverless
 - Dịch vụ Container (ECS/EKS)
-- *Sự kiện: Thuyết trình Dự án Capstone*
+- *Sự kiện: Data Resiliency in a Cloud-first World (15/11/2025)*
+
+**Tuần 7: [Giai đoạn ôn tập](week7/)**
+- Củng cố và ôn tập kiến thức
+
+**Tuần 8: [Giai đoạn ôn tập](week8/)**
+- Chuẩn bị cuối cùng và củng cố kiến thức
