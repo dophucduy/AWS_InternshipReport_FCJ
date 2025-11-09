@@ -1,11 +1,11 @@
 ---
 title: "Week 8"
-date: 2024-10-26
-weight: 8
+weight: 1.8
 chapter: true
+pre: " <b> 1.8. </b> "
 ---
 
-# Week 8 (October 26-30, 2024)
+# Week 8 (October 26-30, 2025)
 
 ## Revision Period
 

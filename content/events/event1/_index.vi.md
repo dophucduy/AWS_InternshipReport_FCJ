@@ -1,7 +1,9 @@
 ---
 title: "Event 1"
-weight: 10
+weight: 4.1
 chapter: false
+pre: " <b> 4.1. </b> "
+
 ---
 
 # Event 1 :: Báo cáo thực tập

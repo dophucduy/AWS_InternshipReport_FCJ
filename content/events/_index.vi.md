@@ -1,7 +1,8 @@
 ---
 title: "Các Events Đã Tham Gia"
-weight: 100
+weight: 4
 chapter: true
+pre: " <b> 4. </b> "
 ---
 
 # Các Events Đã Tham Gia

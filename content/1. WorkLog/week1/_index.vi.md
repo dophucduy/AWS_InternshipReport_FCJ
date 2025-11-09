@@ -1,7 +1,9 @@
 ---
 title: "Tuần 1: Nền Tảng"
-weight: 10
+weight: 1.1
 chapter: true
+pre: " <b> 1.1. </b> "
+
 ---
 
 # Tuần 1: Nền Tảng AWS

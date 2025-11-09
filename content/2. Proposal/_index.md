@@ -1,8 +1,8 @@
 ---
-title: "2. Proposal"
+title: " Proposal"
 weight: 2
 chapter: true
-draft: false
+pre: " <b> 2. </b> "
 ---
 
 ## Proposal: Flyora – E-commerce Platform for Bird Lovers

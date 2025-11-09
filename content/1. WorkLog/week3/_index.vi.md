@@ -1,7 +1,9 @@
 ---
 title: "Tuần 3: Lưu Trữ & Cơ Sở Dữ Liệu"
-weight: 30
+weight: 1.3
 chapter: true
+pre: " <b> 1.3. </b> "
+
 ---
 
 # Tuần 3: Lưu Trữ & Cơ Sở Dữ Liệu

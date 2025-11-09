@@ -1,7 +1,9 @@
 ---
 title: "Event 3"
-weight: 30
+weight: 4.3
 chapter: false
+pre: " <b> 4.3. </b> "
+
 ---
 
 # Event 3 :: Internship Report

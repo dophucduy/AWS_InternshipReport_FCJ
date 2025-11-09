@@ -1,7 +1,9 @@
 ---
 title: "Week 6: Advanced Topics"
-weight: 60
+weight: 1.6
 chapter: true
+pre: " <b> 1.6. </b> "
+
 ---
 
 # Week 6: Advanced Topics

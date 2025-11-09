@@ -1,11 +1,11 @@
 ---
 title: "Tuần 8"
-date: 2024-10-26
-weight: 8
+weight: 1.8
 chapter: true
+pre: " <b> 1.8. </b> "
 ---
 
-# Tuần 8 (26-30/10/2024)
+# Tuần 8 (26-30/10/2025)
 
 ## Giai đoạn ôn tập
 

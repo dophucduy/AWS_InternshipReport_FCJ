@@ -1,7 +1,8 @@
 ---
-title: "5. Events Participated"
-weight: 5
+title: "Events Participated"
+weight: 4
 chapter: true
+pre: " <b> 4. </b> "
 ---
 
 # Events Participated

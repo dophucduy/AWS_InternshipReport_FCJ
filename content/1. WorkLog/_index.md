@@ -1,7 +1,8 @@
 ---
-title: "1.Worklog"
+title: "Worklog"
 weight: 1
 chapter: true
+pre: " <b> 1. </b> "
 ---
 
 # Worklog
@@ -42,4 +43,7 @@ Weekly activities and learning progress during the internship period.
 - Knowledge consolidation and review
 
 **Week 8: [Revision Period](week8/)**
-- Final preparation and knowledge consolidation
+- Knowledge consolidation and review
+
+**Week 9: [Revision Period](week9/)**
+- Knowledge consolidation and review

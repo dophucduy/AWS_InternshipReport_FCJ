@@ -1,7 +1,9 @@
 ---
 title: "Week 4: Networking & Security"
-weight: 40
+weight: 1.4
 chapter: true
+pre: " <b> 1.4. </b> "
+
 ---
 
 # Week 4: Networking & Security

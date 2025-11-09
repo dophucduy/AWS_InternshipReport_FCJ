@@ -1,11 +1,12 @@
 ---
 title: "Tuần 7"
-date: 2024-10-19
-weight: 7
+weight: 1.7
 chapter: true
+pre: " <b> 1.7. </b> "
+
 ---
 
-# Tuần 7 (19-25/10/2024)
+# Tuần 7 (19-25/10/2025)
 
 ## Giai đoạn ôn tập
 

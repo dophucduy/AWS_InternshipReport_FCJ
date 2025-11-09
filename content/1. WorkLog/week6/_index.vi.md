@@ -1,7 +1,8 @@
 ---
 title: "Tuần 6: Chủ Đề Nâng Cao"
-weight: 60
+weight: 1.6
 chapter: true
+pre: " <b> 1.6. </b> "
 ---
 
 # Tuần 6: Chủ Đề Nâng Cao

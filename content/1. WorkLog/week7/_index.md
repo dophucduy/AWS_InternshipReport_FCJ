@@ -1,11 +1,12 @@
 ---
 title: "Week 7"
-date: 2024-10-19
-weight: 7
+weight: 1.7
 chapter: true
+pre: " <b> 1.7. </b> "
+
 ---
 
-# Week 7 (October 19-25, 2024)
+# Week 7 (October 19-25, 2025)
 
 ## Revision Period
 

@@ -1,7 +1,8 @@
 ---
-title: "7. Sharing and Feedback"
+title: "Sharing and Feedback"
 weight: 7
 chapter: true
+pre: " <b> 7. </b> "
 ---
 
 # Sharing and Feedback

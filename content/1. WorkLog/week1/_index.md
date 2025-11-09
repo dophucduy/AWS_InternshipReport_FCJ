@@ -1,7 +1,9 @@
 ---
 title: "Week 1: Foundations"
-weight: 10
+weight: 1.1
 chapter: true
+pre: " <b> 1.1. </b> "
+
 ---
 
 # Week 1: AWS Foundations

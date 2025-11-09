@@ -1,7 +1,8 @@
 ---
 title: "Tuần 5: Giám Sát & Quản Lý"
-weight: 50
+weight: 1.5
 chapter: true
+pre: " <b> 1.5. </b> "
 ---
 
 # Tuần 5: Giám Sát & Quản Lý

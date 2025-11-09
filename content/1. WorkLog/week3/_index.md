@@ -2,6 +2,7 @@
 title: "Week 3: Storage & Databases"
 weight: 30
 chapter: true
+pre: " <b> 1.3. </b> "
 ---
 
 # Week 3: Storage & Databases

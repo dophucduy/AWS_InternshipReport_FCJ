@@ -1,7 +1,9 @@
 ---
 title: "Tuần 4: Mạng & Bảo Mật"
-weight: 40
+weight: 1.4
 chapter: true
+pre: " <b> 1.4. </b> "
+
 ---
 
 # Tuần 4: Mạng & Bảo Mật

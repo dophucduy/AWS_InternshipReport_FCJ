@@ -1,7 +1,9 @@
 ---
 title: "Week 2: Compute Services"
-weight: 20
+weight: 1.2
 chapter: true
+pre: " <b> 1.2. </b> "
+
 ---
 
 # Week 2: AWS Compute Services

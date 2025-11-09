@@ -26,13 +26,13 @@ chapter : false
 ### [Nhật Ký Công Việc](WorkLog/)
 Chi tiết hoạt động hàng tuần và tiến độ học tập trong thời gian thực tập
 
-### [Đề Xuất](proposal/)
+### [Bản Đề Xuất](proposal/)
 Đề xuất dự án thực tập và tài liệu kỹ thuật
 
-### [Blog Dịch Thuật](translated-blogs/)
+### [Các bài Blogs đã dịch ](translated-blogs/)
 Nội dung dịch thuật blog kỹ thuật và chia sẻ kiến thức
 
-### [Sự Kiện Tham Gia](events/)
+### [Các Sự Kiện Tham Gia](events/)
 Workshop, hội thảo và các buổi đào tạo đã tham gia
 
 ### [Workshop](workshop/)

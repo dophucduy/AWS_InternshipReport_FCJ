@@ -1,7 +1,9 @@
 ---
 title: "Nhật Ký Công Việc"
-weight: 10
+weight: 1
 chapter: true
+pre: " <b> 1. </b> "
+
 ---
 
 # Nhật Ký Công Việc
@@ -41,4 +43,7 @@ Hoạt động hàng tuần và tiến độ học tập trong thời gian thự
 - Củng cố và ôn tập kiến thức
 
 **Tuần 8: [Giai đoạn ôn tập](week8/)**
-- Chuẩn bị cuối cùng và củng cố kiến thức
+- Chuẩn bị và củng cố kiến thức
+
+**Tuần 9: [Giai đoạn ôn tập](week9/)**
+- Chuẩn bị và củng cố kiến thức

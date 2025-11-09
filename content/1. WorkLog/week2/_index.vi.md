@@ -1,7 +1,9 @@
 ---
 title: "Tuần 2: Dịch Vụ Tính Toán"
-weight: 20
+weight: 1.2
 chapter: true
+pre: " <b> 1.2. </b> "
+
 ---
 
 # Tuần 2: Dịch Vụ Tính Toán AWS

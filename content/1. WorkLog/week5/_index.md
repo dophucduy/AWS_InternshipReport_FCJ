@@ -1,7 +1,9 @@
 ---
 title: "Week 5: Monitoring & Management"
-weight: 50
+weight: 1.5
 chapter: true
+pre: " <b> 1.5. </b> "
+
 ---
 
 # Week 5: Monitoring & Management
