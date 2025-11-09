@@ -11,7 +11,7 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 
 ## [Event 1](event1/)
 - **Tên sự kiện:** AWS Cloud Day Vietnam
-- **Thời gian:** 7:35 AM - 5:15 PM ngày 15/02/2024
+- **Thời gian:** 7:35 AM - 5:15 PM ngày 18/00/2024
 - **Địa điểm:** Tầng 36 (track 2 HCMC), tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 - **Vai trò trong sự kiện:** Người tham dự
 - **Mô tả:** Hội nghị toàn ngày về Cloud & GenAI với các phiên thảo luận về Migration & Modernization

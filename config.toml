@@ -4,6 +4,7 @@ theme = "hugo-theme-learn"
 languageCode = "en-us"
 title = "AWS Learning Journey"
 canonifyURLs = true
+ignoreFiles = ["content/Group7_Workshop/.*"]
 
 # For search functionality
 [outputs]

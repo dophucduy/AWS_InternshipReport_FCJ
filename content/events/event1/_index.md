@@ -7,12 +7,12 @@ chapter: false
 # Event 1 :: Internship Report
 
 
-## 📝 Event Report "AWS Cloud Day Vietnam"
+##  Event Report "AWS Cloud Day Vietnam"
 
-## 🎯 Purpose of the Event
+##  Purpose of the Event
 Full-day conference focused on reimagining business with Cloud & GenAI, particularly Migration & Modernization strategies.
 
-## 🎤 Speakers List
+##  Speakers List
 ### Morning Plenary
 - **H.E. Pham Duc Long** - Vice Minister of Science and Technology
 - **H.E Marc E. Knapper** - US Ambassador to Vietnam
@@ -29,27 +29,27 @@ Full-day conference focused on reimagining business with Cloud & GenAI, particul
 - **Le Hai Duy** - Solution Expert, VPBank
 - **Nguyen Thai Binh** - Head of DevOps, Renova Cloud
 
-## 📚 Key Highlights
+##  Key Highlights
 ### Panel Discussions
 - **Reimagining Business with Cloud & GenAI**: Leadership Perspectives on People, Culture, and Innovation
 - **Application Modernization**: Accelerating Business Transformation
 
-## 🧱 Microservice Architecture
+##  Microservice Architecture
 Techcombank's journey from monolithic to microservices architecture demonstrated significant improvements in scalability and maintainability. The session covered containerization strategies using AWS ECS and EKS.
 
-## 🧠 Domain-Driven Design (DDD)
+##  Domain-Driven Design (DDD)
 VPBank's implementation of DDD principles in their cloud modernization project showed how proper domain modeling can accelerate development cycles and improve code quality.
 
-## 🔄 Event-Driven Architecture
+##  Event-Driven Architecture
 Renova Cloud's presentation on integrating event-driven patterns with AWS EventBridge and Lambda functions provided practical insights into building resilient, loosely-coupled systems.
 
-## 🧮 Compute Evolution
+##  Compute Evolution
 The evolution from traditional EC2 instances to serverless computing with Lambda and containerized workloads on Fargate represents a paradigm shift in how we approach application deployment.
 
-## 🤖 Amazon Q Developer
+##  Amazon Q Developer
 AI-powered development assistant that helps with code generation, debugging, and optimization. The demo showed 40% improvement in development velocity when integrated into existing workflows.
 
-## 🧠 Lessons Learned
+##  Lessons Learned
 ### Design Thinking
 - GenAI integration requires careful consideration of data privacy and security
 - User-centric design principles apply equally to AI-powered applications
@@ -65,16 +65,16 @@ AI-powered development assistant that helps with code generation, debugging, and
 - Invest in team training and change management
 - Establish clear governance frameworks for AI implementations
 
-## 🛠️ Practical Applications
+##  Practical Applications
 - Implementing automated code review using Amazon Q Developer
 - Setting up CI/CD pipelines with AI-powered testing
 - Deploying intelligent monitoring solutions with CloudWatch Insights
 - Creating event-driven architectures for real-time data processing
 
-## 🌟 Personal Experience & Reflections
+##  Personal Experience & Reflections
 The conference provided invaluable insights into how leading Vietnamese companies are leveraging AWS and GenAI for digital transformation. The networking opportunities with industry leaders and the hands-on demonstrations of cutting-edge technologies made this event particularly enriching. The real-world case studies from Techcombank and VPBank offered practical perspectives on overcoming common modernization challenges.
 
-## 🖼️ Event Photos
+##  Event Photos
 ![AWS Cloud Day Vietnam - Opening Ceremony](/images/event1/1.jpg)
 *Opening ceremony with government officials and AWS leadership*
 

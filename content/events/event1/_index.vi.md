@@ -6,12 +6,12 @@ chapter: false
 
 # Event 1 :: Báo cáo thực tập
 
-## 📝 Bài thu hoạch "AWS Cloud Day Vietnam"
+##  Bài thu hoạch "AWS Cloud Day Vietnam"
 
-## 🎯 Mục Đích Của Sự Kiện
+##  Mục Đích Của Sự Kiện
 Hội nghị toàn ngày tập trung vào việc tái tưởng tượng doanh nghiệp với Cloud & GenAI, đặc biệt là các chiến lược Migration & Modernization.
 
-## 🎤 Danh Sách Diễn Giả
+##  Danh Sách Diễn Giả
 ### Phiên Khai Mạc
 - **H.E. Pham Duc Long** - Phó Bộ trưởng Bộ Khoa học và Công nghệ
 - **H.E Marc E. Knapper** - Đại sứ Mỹ tại Việt Nam
@@ -28,27 +28,27 @@ Hội nghị toàn ngày tập trung vào việc tái tưởng tượng doanh ng
 - **Le Hai Duy** - Solution Expert, VPBank
 - **Nguyen Thai Binh** - Head of DevOps, Renova Cloud
 
-## 📚 Nội Dung Nổi Bật
+##  Nội Dung Nổi Bật
 ### Phiên Thảo Luận Panel
 - **Reimagining Business with Cloud & GenAI**: Quan điểm lãnh đạo về Con người, Văn hóa và Đổi mới
 - **Application Modernization**: Tăng tốc Chuyển đổi Doanh nghiệp
 
-## 🧱 Microservice Architecture
+## Microservice Architecture
 Các phiên thảo luận về việc phân tách ứng dụng monolithic thành microservices để tăng khả năng mở rộng và bảo trì.
 
-## 🧠 Domain-Driven Design (DDD)
+## Domain-Driven Design (DDD)
 Áp dụng DDD trong việc thiết kế kiến trúc cloud-native applications.
 
-## 🔄 Event-Driven Architecture
+##  Event-Driven Architecture
 Sử dụng AWS EventBridge và các dịch vụ messaging để xây dựng hệ thống event-driven.
 
-## 🧮 Compute Evolution
+##  Compute Evolution
 Từ EC2 đến Lambda và Fargate - sự tiến hóa của compute services trên AWS.
 
-## 🤖 Amazon Q Developer
+##  Amazon Q Developer
 Công cụ AI-powered để hỗ trợ developers trong việc code generation và debugging.
 
-## 🧠 Những Gì Học Được
+## Những Gì Học Được
 ### Tư Duy Thiết Kế
 - Hiểu biết về cách tích hợp GenAI vào quy trình DevOps
 - Ứng dụng AI trong tự động hóa code generation và testing
@@ -63,15 +63,15 @@ Công cụ AI-powered để hỗ trợ developers trong việc code generation v
 - Proactive monitoring và optimized resource management
 - Application modernization để tăng tốc business transformation
 
-## 🛠️ Ứng Dụng Vào Công Việc
+##  Ứng Dụng Vào Công Việc
 - Áp dụng kiến thức về GenAI-powered tools trong modernization projects
 - Sử dụng AWS security best practices trong development workflow
 - Triển khai automated testing và intelligent monitoring solutions
 
-## 🌟 Trải Nghiệm Trong Event
+##  Trải Nghiệm Trong Event
 Sự kiện mang lại cơ hội học hỏi từ các chuyên gia hàng đầu trong ngành, đặc biệt là các phiên thảo luận về việc tích hợp AI vào quy trình phát triển phần mềm. Các case study thực tế từ Techcombank và VPBank rất hữu ích cho việc hiểu rõ cách áp dụng công nghệ vào thực tế.
 
-## 🖼️ Một Số Hình Ảnh Khi Tham Gia Sự Kiện
+##  Một Số Hình Ảnh Khi Tham Gia Sự Kiện
 ![AWS Cloud Day Vietnam - Lễ Khai Mạc](/images/event1/1.jpg)
 *Lễ khai mạc với sự tham dự của các lãnh đạo chính phủ và AWS*
 

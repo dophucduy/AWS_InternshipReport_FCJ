@@ -1,6 +1,6 @@
 ---
-title: "Events Participated"
-weight: 100
+title: "5. Events Participated"
+weight: 5
 chapter: true
 ---
 
