@@ -27,7 +27,7 @@ Workshop được phân chia theo vai trò nhóm để dễ triển khai song so
 
 ### Kiến trúc tổng thể
 
-![System Architecture Diagram](https://phucqb.sirv.com/Images/4a27331b2b7fa421fd6e.jpg)
+![System Architecture Diagram](/static/images/5-Workshop/flyora-architecture.png)
 
 ---
 
